@@ -30,14 +30,14 @@ var work = {
     {
       title: "data analysis & user growth",
       employer: "Keep",
-      date: "2017/05/31 - 2018/06/01",
+      date: "2017/05/31 - ",
       location: "Beijing",
       url: "https://www.gotokeep.com"
     },
     {
       title: "marketing & growth",
       employer: "Uber",
-      date: "2015/07/22 - 2017/10/10",
+      date: "2015/07/22 - 2016/10/10",
       location: "Beijing",
       url: "https://www.uber.com"
     },
@@ -94,29 +94,71 @@ education.display = function(){
 var cases = {
   cases: [
     {
-       title: "UberIcecream Day",
+       title: "Hackathon & API launch",
+       dates: "2015/07/24",
+       company: "Uber",
+       description: "That public service would be on hour of air time set aside every night for informational broadcasting, or what we now call the evening news. *Congress, unable to anticipate the enormous capacity television would have to deliver consumers to advertisers, failed to include in its deal the one requirement that would have changed our national discourse immeasurably for the better.* ",
+       images: ["img/0a.JPG","img/0b.JPG","img/0c.JPG","img/0d.JPG"]
+    },
+    {
+       title: "Beijing Demand Analysis",
+       dates: "2016/04/-2016/10",
+       company: "Uber",
+       description: "My responsibility lies as below: <br><br>- Defined initiatives and incentives for Beijing demand generating activities, which brought over 10w+ followers on Wechat within several months and reach operational record under limited budget.<br><br>- Designed and tracked experiments and lifecycle program to reach actionable strategies and investment efficiency, which led to 8% trip growth under no extra budget, about 10% drop on 7-day-churn-rate and 50% retention rate growth at most.<br><br>- Created dashboards and reports to regular monitor key metrics, to enhance understanding of user behavior and drive business decisions.",
+       images: ["img/project2a.jpg","img/project2a.jpg","img/project3a.jpg"]
+    },
+    {
+       title: "Uber ArtStation",
+       dates: "2016/05",
+       company: "Uber",
+       description: "Celebrating the city has always been Uber's Mission. In general, UberStation serves as a conspicuous sign for better pick-up service between riders and drivers. With this special project, we cooperated with young local artists and combine their sculptures with our stations, which can be found within 8 landmarks in Beijing. Also, brief introductions of the artworks will show up when the rider is waiting around, waiting for his/her ride. <br><br>Through this program, young artist can get more exposures and our riders have more interesting experience with Uber. As key project owner, I've led the project via partnership with ArtAnd and 8 Beijing landmarks, which created major media exposure with over 150 articles and spread brand awareness.",
+       images: ["img/2b.png","img/2c.png","img/2e.jpg","img/2a.png"]
+    },
+    {
+       title: "Crazy Cart Prototype",
        dates: "2017/01/01",
        company: "Uber",
        description: "I'm leader in an industry that miscalled election results, hyped up terror scares, ginned up controversy, and failed to report on tectonic shift in our country. From the collapse of the financial system to the truths about how strong we are to the dangers we actually face. I'm a leader in an industry that misdirected your attention with dexterity of Harry Houdini while sending hundreds of thousands of our bravest young men and women off to war without due diligence.",
        images: ["img/project1a.jpg","img/project2a.jpg","img/project3a.jpg"]
     },
     {
-       title: "Uber ArtStation",
-       dates: "2015/07/24",
+       title: "The Great 3D Printing",
+       dates: "2017/01/01",
        company: "Uber",
-       description: "*The reason we failed isn't a mystery. We took a dive for the ratings*. *In the infancy of* mass communications, *the Columbus and Magellan* of broadcast journalism, William Paley and David Sarnoff, went down to Washington to cut a deal with Congress. Congress would allow the fledgling networks free use of taxpayer-owned airwaves in exchange for on public service.",
+       description: "I'm leader in an industry that miscalled election results, hyped up terror scares, ginned up controversy, and failed to report on tectonic shift in our country. From the collapse of the financial system to the truths about how strong we are to the dangers we actually face. I'm a leader in an industry that misdirected your attention with dexterity of Harry Houdini while sending hundreds of thousands of our bravest young men and women off to war without due diligence.",
+       images: ["img/project1a.jpg","img/project2a.jpg","img/project3a.jpg"]
+    },
+    {
+       title: "2nd Future Exhibition",
+       dates: "2017/01/01",
+       company: "CAFAM",
+       description: "I'm leader in an industry that miscalled election results, hyped up terror scares, ginned up controversy, and failed to report on tectonic shift in our country. From the collapse of the financial system to the truths about how strong we are to the dangers we actually face. I'm a leader in an industry that misdirected your attention with dexterity of Harry Houdini while sending hundreds of thousands of our bravest young men and women off to war without due diligence.",
+       images: ["img/project1a.jpg","img/project2a.jpg","img/project3a.jpg"]
+    },
+    {
+       title: "Expression of Uncertainty",
+       dates: "2014/01",
+       company: "Freelance",
+       description: "Cooperated with artist Haochen Wang, this new media art work sprays color pigment while playing piano. I mainly worked on the hardware system, based on open-source hardware Arduino and related sensors.",
+       images: ["img/project1a.jpg","img/project2a.jpg","img/project3a.jpg"]
+    },
+    {
+       title: "Hackathon Serial Competition",
+       dates: "2013/04/-2013/11",
+       company: "Makerspace",
+       description: "Hackthon is a kind of event where people from different area team up and develope one project from idea to prototypes within limited times. I initiated 5 hardware Hackathons via partnership with Intel, Intel Ciilabs, Cinnovate, Sunshine Library, CAFA etc. Topics covered rural education, air pollution and IOT applications, and ~30 prototypes were developed. Also, I've made several projects during the competitions.",
        images: ["img/project3a.jpg","img/project2a.jpg","img/project3a.jpg"]
     },
     {
-       title: "Uber Hackathon",
-       dates: "2015/07/24",
-       company: "Uber",
-       description: "That public service would be on hour of air time set aside every night for informational broadcasting, or what we now call the evening news. *Congress, unable to anticipate the enormous capacity television would have to deliver consumers to advertisers, failed to include in its deal the one requirement that would have changed our national discourse immeasurably for the better.* ",
-       images: ["img/project2a.jpg","img/project2a.jpg","img/project3a.jpg"]
+       title: "C2D2 Sharing Talks",
+       dates: "2012/08-2014/07",
+       company: "Makerspace",
+       description: "C2D2 is a serial talk show started from Aug.2012 in Beijing Makerspace. As project owner, I inivted over 80 professional speakers to share their projects, views and edge-cutting development in their focus. More than 2000 audiences participated offline. This event gathered the very first members of the makerspace.",
+       images: ["img/project3a.jpg","img/project2a.jpg","img/project3a.jpg"]
     },
     {
-       title: "C2D2 Sharing Talks",
-       dates: "2015/07/24",
+       title: "2012 Maker Carnival",
+       dates: "2012/02-2012/05",
        company: "Makerspace",
        description: "Congress forgot to add that under no circumstances would there be paid advertising during informational broadcasting. They forgot to say that taxpayers will give you the airwaves for free and for 23 hours a day you should make a profit, but for one hour a night you work for us. ",
        images: ["img/project3a.jpg","img/project2a.jpg","img/project3a.jpg"]
