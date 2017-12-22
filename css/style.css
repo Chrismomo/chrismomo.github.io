@@ -115,6 +115,7 @@ nav {
 .image img{
     position:absolute;
     opacity: 0;
+    height: 100%;
 }
 
 .cases {
@@ -144,7 +145,7 @@ nav {
 }
 
 .case-pics>img {
-	width: 80%;
+	width: 100%;
 	overflow: hidden;
 	margin-top: 20px;
 	margin-bottom: 20px;
@@ -175,6 +176,9 @@ nav {
 	.image:hover img{
 	opacity: 0;
 	transition: opacity 0.3s ease-out;
+	}
+	.case-pics>img {
+		width: 80%;
 	}	
 }
 
@@ -199,6 +203,9 @@ nav {
 	.image:hover img{
 	opacity: 0;
 	transition: opacity 0.3s ease-out;
+	}
+	.case-pics>img {
+		width: 80%;
 	}
 }
 
@@ -225,5 +232,8 @@ nav {
 	.image:hover img{
 	opacity: 0;
 	transition: opacity 0.3s ease-out;
+	}
+	.case-pics>img {
+		width: 80%;
 	}
 }

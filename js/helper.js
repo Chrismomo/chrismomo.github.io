@@ -10,7 +10,7 @@ var HTMLcasePic = '<a href="project_%id%.html" class="thumbnail" id="%id%"><div 
 
 var HTMLcaseDetailStart = '<div class="col-10 case-detail-start id="%id%"></div>'
 var HTMLcaseText = '<h2><b><br><br>%title%<br>%dates%&nbsp&nbsp@%company%</b></h2><p><br>%description%</p>'
-var HTMLcaseImgStart = '<div class="col-xl-8 col-lg-8 col-md-10 col-sm-12 case-pics" id="%id%"></div>'
+var HTMLcaseImgStart = '<div class="col-10 case-pics" id="%id%"></div>'
 var HTMLImg = '<img src="%link%" class="img-fluid" alt="Responsive image">'
      
         

@@ -94,18 +94,18 @@ education.display = function(){
 var cases = {
   cases: [
     {
-       title: "Hackathon & API launch",
-       dates: "2015/07/24",
+       title: "Hackathon & China API launch",
+       dates: "2016/01/24",
        company: "Uber",
-       description: "That public service would be on hour of air time set aside every night for informational broadcasting, or what we now call the evening news. *Congress, unable to anticipate the enormous capacity television would have to deliver consumers to advertisers, failed to include in its deal the one requirement that would have changed our national discourse immeasurably for the better.* ",
+       description: "On Sep.2015, Uber has launched its API in China. Empowering developers to build moving experiences with Uber API is a key part of our mission of transportation as reliable as running water, everywhere and for everyone. As launch event, this 48-hour-hackathon aimed to promote Uber API among local developers and startups. My main responsibilities and key results include:<br><br>- established and maintained the connection with main partners, including Tsinghua University, Microsoft Ventures, SenseTime, Ticwatch and local developer platforms. Except for Uber API, participants could also play with smartwatch and facial recognition API.<br><br>- fully owned the event operation, including event planning, participants recruiting and event hosting. <br><br>- with 300+ participants, 20 out of 26 teams delivered live demo, and one went production on Android Wear Platform afterwards.",
        images: ["img/0a.JPG","img/0b.JPG","img/0c.JPG","img/0d.JPG"]
     },
     {
        title: "Beijing Demand Analysis",
        dates: "2016/04/-2016/10",
        company: "Uber",
-       description: "My responsibility lies as below: <br><br>- Defined initiatives and incentives for Beijing demand generating activities, which brought over 10w+ followers on Wechat within several months and reach operational record under limited budget.<br><br>- Designed and tracked experiments and lifecycle program to reach actionable strategies and investment efficiency, which led to 8% trip growth under no extra budget, about 10% drop on 7-day-churn-rate and 50% retention rate growth at most.<br><br>- Created dashboards and reports to regular monitor key metrics, to enhance understanding of user behavior and drive business decisions.",
-       images: ["img/project2a.jpg","img/project2a.jpg","img/project3a.jpg"]
+       description: "Uber My responsibility lies as below: <br><br>- Defined initiatives and incentives for Beijing demand generating activities, which brought over 10w+ followers on Wechat within several months and reach operational record under limited budget.<br><br>- Designed and tracked experiments and lifecycle program to reach actionable strategies and investment efficiency, which led to 8% trip growth under no extra budget, about 10% drop on 7-day-churn-rate and 50% retention rate growth at most.<br><br>- Created dashboards and reports to regular monitor key metrics, to enhance understanding of user behavior and drive business decisions.",
+       images: ["img/1a.jpg"]
     },
     {
        title: "Uber ArtStation",
@@ -117,51 +117,51 @@ var cases = {
     {
        title: "Crazy Cart Prototype",
        dates: "2017/01/01",
-       company: "Uber",
-       description: "I'm leader in an industry that miscalled election results, hyped up terror scares, ginned up controversy, and failed to report on tectonic shift in our country. From the collapse of the financial system to the truths about how strong we are to the dangers we actually face. I'm a leader in an industry that misdirected your attention with dexterity of Harry Houdini while sending hundreds of thousands of our bravest young men and women off to war without due diligence.",
-       images: ["img/project1a.jpg","img/project2a.jpg","img/project3a.jpg"]
+       company: "Makerpapa",
+       description: "The Crazy Cart is the ultimate drifting machine origionally made by Razor. It's a very interesting kart, but its adult version was sold with limited amount. So we decide to make by ourselves. The final prototype shown as below:",
+       images: ["img/3a.jpg"]
     },
     {
-       title: "The Great 3D Printing",
-       dates: "2017/01/01",
-       company: "Uber",
+       title: "《The Great 3D Printing》",
+       dates: "2014/06",
+       company: "publication",
        description: "I'm leader in an industry that miscalled election results, hyped up terror scares, ginned up controversy, and failed to report on tectonic shift in our country. From the collapse of the financial system to the truths about how strong we are to the dangers we actually face. I'm a leader in an industry that misdirected your attention with dexterity of Harry Houdini while sending hundreds of thousands of our bravest young men and women off to war without due diligence.",
-       images: ["img/project1a.jpg","img/project2a.jpg","img/project3a.jpg"]
+       images: ["img/4a.jpg"]
     },
     {
        title: "2nd Future Exhibition",
        dates: "2017/01/01",
-       company: "CAFAM",
-       description: "I'm leader in an industry that miscalled election results, hyped up terror scares, ginned up controversy, and failed to report on tectonic shift in our country. From the collapse of the financial system to the truths about how strong we are to the dangers we actually face. I'm a leader in an industry that misdirected your attention with dexterity of Harry Houdini while sending hundreds of thousands of our bravest young men and women off to war without due diligence.",
-       images: ["img/project1a.jpg","img/project2a.jpg","img/project3a.jpg"]
+       company: "Makerpapa",
+       description: "Future Exhibition is a biennale exhibition for young new media artists. I was invited to own the maker session of this biennial new-media art exhibition, including artists invitation, on-site design, management of related activities like workshops, speeches, and hackathon.",
+       images: ["img/5a.jpg","img/5b.jpg","img/5c.jpg"]
     },
     {
        title: "Expression of Uncertainty",
        dates: "2014/01",
        company: "Freelance",
        description: "Cooperated with artist Haochen Wang, this new media art work sprays color pigment while playing piano. I mainly worked on the hardware system, based on open-source hardware Arduino and related sensors.",
-       images: ["img/project1a.jpg","img/project2a.jpg","img/project3a.jpg"]
+       images: ["img/6a.jpg"]
     },
     {
        title: "Hackathon Serial Competition",
        dates: "2013/04/-2013/11",
        company: "Makerspace",
-       description: "Hackthon is a kind of event where people from different area team up and develope one project from idea to prototypes within limited times. I initiated 5 hardware Hackathons via partnership with Intel, Intel Ciilabs, Cinnovate, Sunshine Library, CAFA etc. Topics covered rural education, air pollution and IOT applications, and ~30 prototypes were developed. Also, I've made several projects during the competitions.",
-       images: ["img/project3a.jpg","img/project2a.jpg","img/project3a.jpg"]
+       description: "Hackathon is a 48-hour-competition where participants from different background collaborate intensively on projects, from ideas to prototypes. I initiated 5 hardware Hackathons via partnership with Intel, Intel Ciilabs, Cinnovate, Sunshine Library, CAFA etc. Topics covered rural education, air pollution and IOT applications, and ~30 prototypes were developed. <br><br>Also, I've finished one prototype of my own: <br>Based on the Intel IOT API of air pollution data, I developed a wearable device that can display different patterns according to the value of PM2.5 of surrounding area. I used Arduino as control board and an 8*8 LED Matrix as display as hardware device.",
+       images: ["img/project1a.jpg"]
     },
     {
        title: "C2D2 Sharing Talks",
        dates: "2012/08-2014/07",
        company: "Makerspace",
        description: "C2D2 is a serial talk show started from Aug.2012 in Beijing Makerspace. As project owner, I inivted over 80 professional speakers to share their projects, views and edge-cutting development in their focus. More than 2000 audiences participated offline. This event gathered the very first members of the makerspace.",
-       images: ["img/project3a.jpg","img/project2a.jpg","img/project3a.jpg"]
+       images: ["img/project2a.jpg"]
     },
     {
        title: "2012 Maker Carnival",
        dates: "2012/02-2012/05",
        company: "Makerspace",
-       description: "Congress forgot to add that under no circumstances would there be paid advertising during informational broadcasting. They forgot to say that taxpayers will give you the airwaves for free and for 23 hours a day you should make a profit, but for one hour a night you work for us. ",
-       images: ["img/project3a.jpg","img/project2a.jpg","img/project3a.jpg"]
+       description: "2012 Maker carnival is one of the earliest large maker activities on China Mainland. The total number of the exhibition projects exceeds 72. I recruited and trained over 270 volunteers to assist through the exhibition and its preparation. Also, I managed the reception of 51 global teams.",
+       images: ["img/9a.jpg","img/9b.jpg","img/9c.jpg","img/9d.jpg"]
     }
   ]
 };
