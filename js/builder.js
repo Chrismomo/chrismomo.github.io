@@ -97,14 +97,14 @@ var cases = {
        title: "Hackathon & China API launch",
        dates: "2016/01/24",
        company: "Uber",
-       description: "On Sep.2015, Uber has launched its API in China. Empowering developers to build moving experiences with Uber API is a key part of our mission of transportation as reliable as running water, everywhere and for everyone. As launch event, this 48-hour-hackathon aimed to promote Uber API among local developers and startups. My main responsibilities and key results include:<br><br>- established and maintained the connection with main partners, including Tsinghua University, Microsoft Ventures, SenseTime, Ticwatch and local developer platforms. Except for Uber API, participants could also play with smartwatch and facial recognition API.<br><br>- fully owned the event operation, including event planning, participants recruiting and event hosting. <br><br>- with 300+ participants, 20 out of 26 teams delivered live demo, and one went production on Android Wear Platform afterwards.",
+       description: "On Sep.2015, Uber has launched its API in China. Empowering developers to build moving experiences with Uber API is a key part of its mission. As launch event, this 48-hour-hackathon aimed to promote Uber API among local developers and startups. My main responsibilities and key results include:<br><br>- established and maintained the connection with main partners, including Tsinghua University, Microsoft Ventures, SenseTime, Ticwatch and local developer platforms. Except for Uber API, participants could also play with smartwatch and facial recognition API.<br><br>- fully owned the event operation, including event planning, participants recruiting and event hosting. <br><br>- with 300+ participants, 20 out of 26 teams delivered live demo, and one went production on Android Wear Platform afterwards.",
        images: ["img/0a.JPG","img/0b.JPG","img/0c.JPG","img/0d.JPG"]
     },
     {
        title: "Beijing Demand Analysis",
        dates: "2016/04/-2016/10",
        company: "Uber",
-       description: "Uber My responsibility lies as below: <br><br>- Defined initiatives and incentives for Beijing demand generating activities, which brought over 10w+ followers on Wechat within several months and reach operational record under limited budget.<br><br>- Designed and tracked experiments and lifecycle program to reach actionable strategies and investment efficiency, which led to 8% trip growth under no extra budget, about 10% drop on 7-day-churn-rate and 50% retention rate growth at most.<br><br>- Created dashboards and reports to regular monitor key metrics, to enhance understanding of user behavior and drive business decisions.",
+       description: "My main responsibility of this project lies as below: <br><br>- Defined initiatives and incentives for Beijing demand generating activities, which brought over 10w+ followers on Wechat within several months and reach operational record under limited budget.<br><br>- Designed and tracked experiments and lifecycle program to reach actionable strategies and investment efficiency, which led to 8% trip growth under no extra budget, about 10% drop on 7-day-churn-rate and 50% retention rate growth at most.<br><br>- Created dashboards and reports to regular monitor key metrics, to enhance understanding of user behavior and drive business decisions.",
        images: ["img/1a.jpg"]
     },
     {
@@ -125,7 +125,7 @@ var cases = {
        title: "《The Great 3D Printing》",
        dates: "2014/06",
        company: "publication",
-       description: "I'm leader in an industry that miscalled election results, hyped up terror scares, ginned up controversy, and failed to report on tectonic shift in our country. From the collapse of the financial system to the truths about how strong we are to the dangers we actually face. I'm a leader in an industry that misdirected your attention with dexterity of Harry Houdini while sending hundreds of thousands of our bravest young men and women off to war without due diligence.",
+       description: "Pushlished in June.2014, this is a book about 3D printing. Except for history review, this book also explains the mechanisms of different types of 3D printer and includes brief guides for self-making 3D printer and models. As one of the writers, my part mainly introduces the development and technique about 3D scanning and 3D photo studio. The same article of mine has also been published in 《Radio Magazine》.",
        images: ["img/4a.jpg"]
     },
     {
