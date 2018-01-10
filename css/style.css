@@ -40,6 +40,19 @@ p {
 	line-height: 2.0;
 }
 
+.badge-warning {
+	background-color: rgb(255,255,22);
+}
+
+.progress-bar{
+	background-color: rgb(255,255,22);
+	color: black;
+}
+
+.progress {
+	border-radius: 0;
+}
+
 
 
  /*block*/
@@ -110,6 +123,10 @@ nav {
     overflow:hidden;
     padding-bottom:100%;
     border: 4px solid rgb(255,255,22);
+}
+
+img{
+	margin-bottom: 6px;
 }
 
 .image img{
